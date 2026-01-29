@@ -1,6 +1,6 @@
 # Hi 👋 I'm Alaa Darwish
 
-Senior Data & AI Engineer (Hybrid Profile)
+Senior Data & AI Engineer
 
 🚀 Specialized in Analytics, Machine Learning, and LLM Systems.
 
