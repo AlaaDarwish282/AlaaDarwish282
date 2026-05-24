@@ -65,12 +65,9 @@ Hands-on experience integrating Large Language Models using **OpenAI APIs** and 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlaaDarwish282&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaDarwish282&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=AlaaDarwish282&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
