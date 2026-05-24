@@ -65,11 +65,6 @@ Hands-on experience integrating Large Language Models using **OpenAI APIs** and 
 
 ---
 
-## 📊 GitHub Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=AlaaDarwish282&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
-
----
 
 ## 🌐 Languages
 
